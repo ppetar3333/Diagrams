@@ -1,4 +1,4 @@
-# Diagrams for Fitness Center Project (WPF Desktop App)
+## Diagrams for Fitness Center Project (WPF Desktop App)
 
 #### Use Case Diagram
 #### Class Diagram
